@@ -35,7 +35,7 @@ int main() {
     //printf("%.2lf", bmiValue);
     // 2-2. BMI 등급 책정
     char bmiClass[20];
-    if(bmiValue > bmiClass) {
+    if(bmiValue > weight) {
         strcpy(bmiClass, "저체중");
         
     }else if(bmiValue >= 18.5 && bmiValue < 23){
