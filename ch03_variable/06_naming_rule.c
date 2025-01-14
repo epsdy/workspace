@@ -1,5 +1,5 @@
 /**
- * 명명규칙(Naming Rule)
+ * 명명규칙(Naming Rule) ☆
  *   1. 알파벳 대문자(A~Z), 소문자(a~z), 숫자(0~9), 특수문자(_)만 사용 가능
  *   2. 숫자로 시작 불가
  *      ex) 1ABC (X), ABC1 (O)
@@ -14,6 +14,7 @@
  *   C : Class(객체)
  *   M : Method(함수)
  *   V : Variable(변수)
+ * ☆
  *  1. 파스칼 케이스 -> Age, StudentNumber
  *      - JAVA(C), Python(C)
  *  2. 카멜 케이스   -> age, studentNumber

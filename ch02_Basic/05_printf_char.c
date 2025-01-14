@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-// 문자     : 'A' -> char
-// 문자열   : "A" -> String
+// 문자     : 'A' -> char ☆
+// 문자열   : "A" -> String ☆
 int main(){
     printf("%c\n", 'A');
 
