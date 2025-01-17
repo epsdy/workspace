@@ -38,7 +38,7 @@ int main() {
     double db;  // 8 BYte
     char *pc = &ch;
     int *pi = &in;
-    double *pd = *db;
+    double *pd = &db;
 
     printf("char형 변수의 주소 크기: %d\n", sizeof(&ch));
     printf("int형 변수의 주소 크기: %d\n", sizeof(&in));
