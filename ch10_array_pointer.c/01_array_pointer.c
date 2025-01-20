@@ -50,7 +50,7 @@ int main() {
     printf("세번째 배열 요소:");
     scanf("%d", arrNum+2);
 
-    for(int i*0; i<3; i++) {
+    for(int i=0; i<3; i++) {
         printf("%d\n", *(arrNum + i));
     }
 
